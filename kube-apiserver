@@ -1,0 +1,2 @@
+#需要构建的镜像名称和版本
+FROM cbd.gcr.io/kube-apiserver:v1.0
